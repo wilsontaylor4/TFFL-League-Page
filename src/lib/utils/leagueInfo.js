@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to the new website for the TFFL!</p>
-  <p>This website is currently underdevelopment, but we'll be off and running soon!</p>
+  <p>This website is currently under development, but we'll be off and running soon!</p>
 `;
 
 /*   STEP 3   */
