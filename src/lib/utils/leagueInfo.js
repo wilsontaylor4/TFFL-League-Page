@@ -46,7 +46,7 @@ export const managers = [
     },
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "Kuhlkilla",
+      "managerID" : "200872594847567872",
       "name": "Riley Kuhl",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Pueblo, CO", // (optional)
@@ -69,7 +69,7 @@ export const managers = [
     },
     {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "Doggy712",
+      "managerID" : "200441548435886080",
       "name": "Ron Wilson",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Dewey, AZ", // (optional)
@@ -92,7 +92,7 @@ export const managers = [
     },
   {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "trofolife",
+      "managerID" : "200423328924569600",
       "name": "Stephen Zamora",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Anaheim, CA", // (optional)
@@ -115,7 +115,7 @@ export const managers = [
     },
   {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "jwolfer",
+      "managerID" : "82322826857955328",
       "name": "Jakob Wolfer",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Riverside, CA", // (optional)
@@ -138,7 +138,7 @@ export const managers = [
     },
   {
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "tarynwilson4",
+      "managerID" : "872356678891433984",
       "name": "Taryn Sanchez",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Anaheim, CA", // (optional)
@@ -161,7 +161,7 @@ export const managers = [
     },
   {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "JasonThor17",
+      "managerID" : "441744506929278976",
       "name": "Jason Zamora",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Anaheim, CA", // (optional)
@@ -184,7 +184,7 @@ export const managers = [
     },
   {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "TeamKuhl",
+      "managerID" : "441763816326295552",
       "name": "Bill & Kathy Kuhl",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Mission Viejo, CA", // (optional)
@@ -207,7 +207,7 @@ export const managers = [
     },
   {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "zloya",
+      "managerID" : "449371687415181312",
       "name": "Zach Loya",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Riverside, CA", // (optional)
@@ -230,7 +230,7 @@ export const managers = [
     },
   {
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "JoseyG",
+      "managerID" : "440508236995489792",
       "name": "Jose Granados",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Riverside, CA", // (optional)
@@ -253,7 +253,7 @@ export const managers = [
     },
   {
       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "Tank5657",
+      "managerID" : "440716556591165440",
       "name": "Izzy Flores",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Santa Ana, CA", // (optional)
@@ -276,7 +276,7 @@ export const managers = [
     },
   {
       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "mictchishin13",
+      "managerID" : "330879455230722048",
       "name": "Mitchell Sennewald",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Portland, OR", // (optional)
